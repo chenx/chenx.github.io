@@ -6,4 +6,6 @@
     - https://pages-themes.github.io/architect/ ([doc](https://github.com/pages-themes/architect?tab=readme-ov-file))
     - https://pages-themes.github.io/hacker/
     - https://pages-themes.github.io/cayman/
-- Jekyll: https://jekyllrb.com/
+- Jekyll
+  - https://jekyllrb.com/
+  - Jekyll is a static site generator. It takes text written in your favorite markup language and uses layouts to create a static website.
